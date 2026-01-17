@@ -1,0 +1,3 @@
+[submodule "external/walls-catppuccin-mocha"]
+	path = external/walls-catppuccin-mocha
+	url = https://github.com/orangci/walls-catppuccin-mocha.git
